@@ -1,7 +1,7 @@
 # Claude Code hygiene
 
 - URL: https://stocasticparrot.ai/en/explainers/claude-code-hygiene/
-- Updated: 2026-10-31
+- Updated: 2026-11-03
 - Tested with: Claude Code 2.1.312 and Opus 5.5 (2026-10-28)
 
 ```text

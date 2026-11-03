@@ -10,6 +10,7 @@ I prompt degli articoli di [Stocastic Parrot](https://stocasticparrot.ai), uno p
 
 - [Usi agenti AI? Sei a rischio: il prompt per metterti al sicuro](https://stocasticparrot.ai/sicurezza/brotli-rce/): [in italiano](brotli-rce/prompt.md), [in inglese](brotli-rce/prompt.en.md)
 - [L’igiene di Claude Code](https://stocasticparrot.ai/spiegoni/igiene-claude-code/): [in italiano](igiene-claude-code/prompt.md), [in inglese](igiene-claude-code/prompt.en.md)
+- [Spegnere l’auto-compaction in Claude Code](https://stocasticparrot.ai/tutorial/spegnere-auto-compaction/): [in italiano](spegnere-auto-compaction/prompt.md), [in inglese](spegnere-auto-compaction/prompt.en.md)
 
 ### Le versioni
 
@@ -25,6 +26,7 @@ The prompts from the articles on [Stocastic Parrot](https://stocasticparrot.ai),
 
 - [Using AI agents? You’re at risk: the prompt that keeps you safe](https://stocasticparrot.ai/en/security/brotli-rce/): [in English](brotli-rce/prompt.en.md), [in Italian](brotli-rce/prompt.md)
 - [Claude Code hygiene](https://stocasticparrot.ai/en/explainers/claude-code-hygiene/): [in English](igiene-claude-code/prompt.en.md), [in Italian](igiene-claude-code/prompt.md)
+- [Turn off auto-compaction in Claude Code](https://stocasticparrot.ai/en/tutorials/turn-off-auto-compaction/): [in English](spegnere-auto-compaction/prompt.en.md), [in Italian](spegnere-auto-compaction/prompt.md)
 
 ### Versions
 

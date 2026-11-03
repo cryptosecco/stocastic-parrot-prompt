@@ -1,7 +1,7 @@
 # L’igiene di Claude Code
 
 - URL: https://stocasticparrot.ai/spiegoni/igiene-claude-code/
-- Aggiornato: 2026-10-31
+- Aggiornato: 2026-11-03
 - Provato con: Claude Code 2.1.312 e Opus 5.5 (2026-10-28)
 
 ```text
